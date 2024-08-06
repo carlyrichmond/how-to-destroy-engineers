@@ -63,6 +63,8 @@ To learn more, check out the below resources.
 * [Flaky tests are poisoning your productivity | Trisha Gee](https://trishagee.com/2024/06/07/flaky-tests-are-poisoning-your-productivity/)
 * [Your Tests Are Failing YOU! | Trisha Gee on Continuous Delivery](https://www.youtube.com/watch?v=bI2HQ2N_gwY) 
 * [An Empirical Study of Flaky Tests in Javascript | Hashemi et al.](https://arxiv.org/pdf/2207.01047)
+* [Measuring the Cost of Regression Testing in Practice:
+A Study of Java Projects using Continuous Integration | Labuschagne et al.](https://www.cs.ubc.ca/~rtholmes/papers/fse_2017_labuschange.pdf)
 * [Bug Bash: A Guide to Planning and Organizing | BrowserStack](https://www.browserstack.com/guide/run-bug-bash)
 
 ## Metrics
