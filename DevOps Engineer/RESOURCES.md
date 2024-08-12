@@ -76,9 +76,10 @@ A Study of Java Projects using Continuous Integration | Labuschagne et al.](http
 * [SPACE](https://getdx.com/blog/space-metrics/)
 * [Measuring & Monitoring CI/CD Performance | Jetbrains](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd-metrics/)
 * [SLA vs. SLO vs. SLI: What's the difference? | Atlassian](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
+* [Monitoring service performance: An overview of SLA calculation for Elastic Observability | Credit Philipp Kahr on Elastic Observability Labs](https://www.elastic.co/observability-labs/blog/observability-sla-calculations-transforms)
 
 ### McKinsey Productivity Debate
 
 * [Yes, you can measure software developer productivity | McKinsey](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity)
 * [McKinsey Developer Productivity Review | Credit Dan North](https://dannorth.net/mckinsey-review/)
-* [Measuring developer productivity? A response to McKinsey | Credit Gergely Orosz and Kent Beck on The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
+* [Measuring developer productivity? A response to McKinsey | Credit Gergely Orosz and Kent Beck on The Pragmatic Engineer](git )

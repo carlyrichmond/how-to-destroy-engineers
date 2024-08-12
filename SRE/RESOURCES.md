@@ -75,6 +75,7 @@ A Study of Java Projects using Continuous Integration | Labuschagne et al.](http
 * [SPACE](https://getdx.com/blog/space-metrics/)
 * [Measuring & Monitoring CI/CD Performance | Jetbrains](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd-metrics/)
 * [SLA vs. SLO vs. SLI: What's the difference? | Atlassian](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
+* [Monitoring service performance: An overview of SLA calculation for Elastic Observability | Credit Philipp Kahr on Elastic Observability Labs](https://www.elastic.co/observability-labs/blog/observability-sla-calculations-transforms)
 
 ### McKinsey Productivity Debate
 
