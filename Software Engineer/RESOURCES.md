@@ -1,12 +1,6 @@
-# How to Destroy a DevOps Engineer Resources
+# How to Destroy a Software Engineer Resources
 
-To learn more, check out the below resources.
-
-## General DevOps
-
-* [Google SRE book](https://sre.google/sre-book/), check out the key sections on on-call, eliminating toil and SLO alerting
-* [What is a DevOps engineer? | Atlassian](https://www.atlassian.com/devops/what-is-devops/devops-engineer)
-* [DevOps tool sprawl: is 'tool tax' just the tip of the iceberg? | Amazic](https://amazic.com/devops-tool-sprawl-is-tool-tax-just-the-tip-of-the-iceberg/) 
+To learn more, check out the below resources. 
 
 ## Mastery
 
